@@ -794,7 +794,7 @@ body,
 input,
 select,
 textarea {
-  font-family: 'Roboto', 'San Francisco', helvetica, arial, sans-serif;
+  font-family: 'Alef', 'San Francisco', helvetica, arial, sans-serif;
   font-size: 62.5%; }
 
 body,
@@ -1990,6 +1990,7 @@ img size recommended:800x600px
 
 .flexblock.gallery li,
 .flexblock.gallery.blink li > a {
+  text-align: right;
   padding: 0; }
 
 .flexblock.gallery h2 {
